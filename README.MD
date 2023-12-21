@@ -6,7 +6,6 @@
   <a href="#resolução"> Resolução </a> 🧑‍💻/
   <a href="#tecnologias"> Tecnologias </a> ⚙️/
   <a href="#aprendizados"> Aprendizados </a> 📖/
-  <a href="#status"> Status </a> 🚧
 </p>
 
 # Sobre
